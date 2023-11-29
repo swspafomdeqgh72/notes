@@ -2,3 +2,13 @@
 research log
 # 2023-11-28
 Let's GO
+
+# 2023-11-29
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help improve your programming skills:
+
+1. Break down large projects into smaller, manageable tasks.
+2. Use version control systems like Git to keep track of your code and collaborate with others. 
+3. Learn to use code editors and IDEs that cater to your needs and preferences. Some popular options include Visual Studio Code, Sublime Text, or Atom. These tools can provide syntax highlighting, code completion, debugging, etc., making your coding experience more enjoyable and efficient.  
+4. Always write clean, well-documented code. Follow coding conventions and formatting guidelines to make your codes more readable and maintainable.   
+5. Practice good programming habits, such as commenting your Code and using appropriate variable names, functions, classes, modules, to organize your program.    
+6. Stay up-to-date with the latest programming languages, frameworks, libraries, tools, technologies, trends, news, tutorials, blogs, videos, podcasts, books, courses, conferences, meetups, workshops, hackathons, competitions, challenges, projects, case studies, success stories, failure stories and so on.
