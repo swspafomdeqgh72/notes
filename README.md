@@ -32,3 +32,10 @@ Remember to take breaks throughout the day to avoid burnout and maintain focus. 
 
 # 2023-12-05
 - "Keep it simple, stupid!"
+
+# 2023-12-06
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the critical aspects of the project and not get sidetracked by less significant details. Use a task management tool, such as Trello or Asana, to help keep track of your priorities. 
+ 2. Plan ahead: Planning is crucial for any project. When starting a new project or undertaking a large task, take the time to plan out your approach and break it down into smaller, manageable steps. Creating a detailed plan will ensure you have a clear understanding of what needs to happen and when, allowing you and your team to stay on track and avoid potential bottlenecks.  
+3. Stay organized: As a programmer, maintaining a clean and organized codebase is vital for efficiency and maintainability. Follow best practices, like using version control (such as Git), organizing your code into logical folders and files, following a consistent naming convention, commenting your codes, etc. These practices will not only make your life easier as a developer but also help others to understand and contribute to your project easily.
