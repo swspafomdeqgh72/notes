@@ -96,3 +96,6 @@ This quote reminds us that optimizing code before it's necessary can lead to com
 Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable pieces, then allocate time and resources to each piece. Having a clear plan will prevent you from getting lost in the code or running out of time. It will also help to ensure a smoother and more enjoyable coding experience. 
  （108字）
 最后，保持组织是非常重要的。使用版本控制系统，如Git，来跟踪代码更改。确保代码整洁、有组织，遵循一致的命名约定和代码风格。这将使您更容易理解和维护代码，同时也有助于提高团队协作的效率。通过遵循这些最佳实践，您将能够更有效地编程并实现更高的生产力。
+
+# 2023-12-20
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. It reminds us that optimizing code too early can lead to unnecessary complexity and bugs, and that we should focus on writing clear, correct code first before worrying about performance.
