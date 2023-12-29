@@ -125,3 +125,6 @@ This reminds us that while it's easy to create complex solutions, the real skill
 
 # 2023-12-28
 - "Keep it simple, stupid!"
+
+# 2023-12-29
+- "Keep it simple, stupid!"
