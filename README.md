@@ -275,3 +275,6 @@ In practice, this means favoring well-structured designs, using consistent namin
 
 # 2024-01-30
 - Today's programming wisdom is: "Simplicity is the ultimate sophistication. In software development, strive to write clean and readable code that can be easily understood and maintained by others. Always remember that code is read far more often than it is written. Therefore, focus on making your code expressive, modular, and concise, using abstractions and design patterns wisely. And always keep in mind that premature optimization is the root of all evil; make it work, then make it right, and finally, if necessary, make it fast."
+
+# 2024-01-31
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In software development, strive for clarity and simplicity in your code. Write clean, readable, and maintainable programs that can be easily understood by others and yourself in the future. Avoid unnecessary complexity and over-engineering. Remember that code is read far more often than it is written."
