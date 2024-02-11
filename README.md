@@ -327,3 +327,8 @@ Next, use scheduling tools and apps to planyour time. Allocate specific blocks o
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize your task and prioritize them accordingly. 
  其次，明智地规划你的时间。在编程时，合理安排时间至关重要。你可以为每个任务分配特定的时间段，以确保你在规定的时间内完成任务。此外，避免在高峰时段进行编程，因为这可能会导致干扰和低效率。 使用番茄工作法（Pomodoro Technique）可以帮助你更有效地管理时间，通过短暂的休息来保持注意力和精力。
  最后，保持组织。一个整洁、有组织的代码库可以帮助你在编程过程中更快地找到所需的信息和资源。使用版本控制系统（如Git）来跟踪代码更改，并确保在提交更改之前对其进行充分测试。遵循编程最佳实践，如编写可读、可维护和可重用的代码，以及使用有意义的命名约定。通过遵循这些最佳做法，你可以确保你的代码在长期内保持高效和可靠。
+
+# 2024-02-11
+- Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. This means staying up-to-date with the latest programming languages, tools, and frameworks. It also means being open to new ideas and approaches, as well as understanding the importance of collaboration and communication in a team environment.
+
+To stay ahead of the curve, it' s essential to constantly read and research, attending conferences, workshops, online courses, blogs, forums, etc. Additionally, learning to ask the right questions, critique code, debug, test, refactor, write documentation, communicate, lead, mentor, teach, learn from mistakes, ask for help, give help - all of these skills are crucial for success in the world today. Remember that programming is a craft, not a one-time task, so be prepared to continually refine and improve your skills.
