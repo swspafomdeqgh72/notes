@@ -375,3 +375,6 @@ In essence, this quote emphasizes that trying to make a program faster before it
 2. Practice: Coding is a skill that improves with practice. Try to complete as many projects as possible to build your portfolio and hone your skills. You can find programming challenges on websites like LeetCode, HackerRank, Project Euler, etc. to practice regularly. 
 3. Collaborate: Team up and work with other programmers to solve complex problems. This will not only improve your problem-solving skills but also help build a network of professionals in your field. Communicating with others and sharing your ideas is also a great way to learn and grow.  
 4. Open-source contribution: Contributing to open- source projects is an excellent way of learning new skills and understanding different coding styles. It also helps build credibility in today'
+
+# 2024-02-21
+- "Keep it simple, stupid!"
