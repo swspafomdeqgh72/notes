@@ -402,3 +402,6 @@ In the context of coding, this means that writing clear, concise, and easily und
 To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, computer architecture, operating systems, etc. These fundamentals will serve as a strong foundation for your career, allowing you to easily adapt to the ever-changing landscape of technology. 
  - 了解最新技术，工具和最佳实践。
 - 是终身学习者，不断更新自己的技能和知识。- 有扎实的基本功，如数据结构、算法、计算机架构、操作系统等。
+
+# 2024-02-28
+- "Keep it simple, stupid!"
